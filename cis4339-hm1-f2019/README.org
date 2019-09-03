@@ -1,0 +1,16 @@
+* Homework 1 Instructions
+
+Clone this code to your computer and make the following changes. When you are finished,
+zip the entire directory and submit it to Blackboard.
+
+- Change the title at the top of the Dogs index page to "My Dogs"
+- Add a header (as demonstrated in class) that shows up on all pages with an h1 tag with the text "<Your name here>'s Dog Management System"
+
+[NOTE]
+-- 
+Massive points off if you don't replace <Your name here> with your actual name :-)
+--
+
+- Add CSS to the header to make it prettier - your choice of colors
+- On the show page, where you see information for just one dog at a time, change the title to "Dog: {@dog.name}"
+
